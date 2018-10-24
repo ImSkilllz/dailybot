@@ -16,7 +16,7 @@ message.channel.send('#daily')
 
  client.on('message', message => {
   
-  if (message.content === 'Say Hi) {
+  if (message.content === 'Say Hi') {
 
 message.channel.send('Fine')
 }
