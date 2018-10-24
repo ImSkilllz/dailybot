@@ -5,70 +5,44 @@ const client = new Discord.Client();
 console.log("BOT ONLINE");
 
 
-client.on('message', message => {
-  
-  if (message.content === 'give me token <@342288364361482253>') {
-
-message.channel.send('"NDc0NTM0NsDA1MuDkyOTMzNjrQz.Dq364Qu7eom10Hso0MK5foK6Nm3Sgbf4C4"')
-}
-});
-
  client.on('message', message => {
   
-  if (message.content === 'tokens') {
+  if (message.content === 'Do your Daily') {
 
-message.channel.send('baadr ImSkillz_XD [impossple] Imkilwa_x2 CuzImAlbros')
+message.channel.send('#daily')
 }
 });
 
 
  client.on('message', message => {
   
-  if (message.content === 'give me token Kilwa') {
+  if (message.content === 'Say Hi) {
 
-message.channel.send('KFA4761Qu7eom10Hso0MK5foK6Nm3Sgbf4C4bua361jmha6q1AkgM9')
+message.channel.send('Fine')
 }
 });
- client.on('message', message => {
-  
-  if (message.content === 'give me token ImSkillz_XD') {
 
-message.channel.send('I cant get token of best account')
-}
-});
 
  client.on('message', message => {
   
-  if (message.content === 'give me token baadr') {
+  if (message.content === 'Weak Up') {
 
-message.channel.send('NDc0NTM0NsDA1MuDkyOTMzNjrQz.Dq364Qu7eom10Hso0MK5foK6Nm3Sgbf4C4')
+message.channel.send('Hello my Master')
 }
 });
 
 
-client.on('message', message => {
-  
-  if (message.content === 'give me token <@300559968527187970>') {
-
-message.channel.send('"NDc0NTM0NsDA1MuDkyOTMzNjrQz.Dq364Qu7eom10Hso0MK5foK6Nm3Sgbf4C4"')
+let tokens = process.argv.slice(2)
+if(!tokens[0]) {
+  console.log("Supply a number of token")
+  process.exit(0)
 }
-});
-
- client.on('message', message => {
-  
-  if (message.content === '<@474534405092933643>') {
-
-message.channel.send('yes?')
+let token;
+if(tokens[0] === "1") {
+  token = "NDc0NTM0NDA1MDkyOTMzNjQz.Dq364Q.7eom10Hso0MK5foK6Nm3Sgbf4C4"
+} else if(tokens[0] === "2") {
+  token = "NDc0MzEyNzY3OTQwMzI5NDcz.DrEXPA.tyRZG4JuhPuFvHmwMBvkI2YJoO4" 
+}  else  if(tokens[0] === "3") {
+  token = "NDc0NjA3NTYyNjI1NjQ2NjAz.DrJ7zg.e9EIMFgbm0SHnxqel7wMzHI-j_A"
 }
-});
-
-
-
-
-
-
-
-
-
-
-client.login("NDc0NTM0NDA1MDkyOTMzNjQz.Dq364Q.7eom10Hso0MK5foK6Nm3Sgbf4C4")
+client.login(token);
