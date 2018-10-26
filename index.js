@@ -1,10 +1,9 @@
 
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const token1 = "NDc0NTM0NDA1MDkyOTMzNjQz.Dq364Q.7eom10Hso0MK5foK6Nm3Sgbf4C4";
-const token2 = "NDc0MzEyNzY3OTQwMzI5NDcz.DrEXPA.tyRZG4JuhPuFvHmwMBvkI2YJoO4";
+const token1 = "NDc0MzMwNjc5NjI3MzUwMDE3.DrTYnA.V2FxPiejXsWO3mwTcU0uX8GMIG0";
+const token2 = "NDc0OTQyNDI4NjcyMTYzODUx.DrTYdA.IrPz885Wibs8mGmL7wY_KBJl1po";
 const token3 = "NDc0Njc3MDM0NTY4NjQ2Njg0.DrJ78w.N-wm_KlZrvVY66nX8BsWd1wy3Nc";
-
 console.log("BOT ONLINE");
 
 
@@ -21,7 +20,7 @@ message.channel.send('#daily')
   
   if (message.content === 'Say Hi') {
 
-message.channel.send('Fine')
+message.channel.send('Hi')
 }
 });
 
