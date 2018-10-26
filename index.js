@@ -1,7 +1,6 @@
 
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const tokenfile = require("./token.json")
 
 console.log("BOT ONLINE");
 
@@ -34,4 +33,3 @@ message.channel.send('Hello my Master')
 
 
 
-client.login(tokenfile.token);
