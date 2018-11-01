@@ -185,7 +185,7 @@ bot35.login("NDc1MjQ1NDM5OTU2ODExNzc3.DrpnLw.Q-YxLh--7NKLoOMmjdT6KTa3eUM");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot36 = new Discord.Client();
 bot36.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot36.user.tag}!`);
 });
 bot36.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -208,7 +208,7 @@ bot36.login("NDc1MjQyODU0MTM5MDM1NjUw.Drpnkg.RnS_CsmOWkoJq39qPVJGNQI0o6E");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot37 = new Discord.Client();
 bot37.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot37.user.tag}!`);
 });
 bot37.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -231,7 +231,7 @@ bot37.login("NDc1MDI2MjAxMTM2ODU3MDg4.Drpn2g.6WZ4hH4Iul9JeLc1hqPry5v6uUY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot38 = new Discord.Client();
 bot38.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot38.user.tag}!`);
 });
 bot38.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -254,7 +254,7 @@ bot38.login("NDc0OTQyNDI4NjcyMTYzODUx.DrpoHg.1aKrh3OCkyQWvvbhcJlIAS7ZzUw");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot39 = new Discord.Client();
 bot39.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot39.user.tag}!`);
 });
 bot39.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -277,7 +277,7 @@ bot39.login("NDc0OTQzNzI3OTM3NTE5NjQ4.DrpoZw.spYY6Kmtdh9hGzUczmNjm-NVcrg");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot40 = new Discord.Client();
 bot40.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot40.user.tag}!`);
 });
 bot40.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -300,7 +300,7 @@ bot40.login("NDc0OTI2MDc3MDMwOTU3MDY2.DrpoyQ.zknFZ0fpvKfzdJSZ9I9GMHiKYy4");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot41 = new Discord.Client();
 bot41.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot41.user.tag}!`);
 });
 bot41.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -323,7 +323,7 @@ bot41.login("NDc0OTI1MjIzNTQwNjg2ODU4.DrppIw.f2aYuu46P94BcMnXHGKkruJYBHc");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot42 = new Discord.Client();
 bot42.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot42.user.tag}!`);
 });
 bot42.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -346,7 +346,7 @@ bot42.login("NDc0OTIzMzE5NDQ4MDQzNTIw.DrppaQ.TIRAS3qigvGs1LwVfvQOure3CVo");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot43 = new Discord.Client();
 bot43.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot43.user.tag}!`);
 });
 bot43.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -369,7 +369,7 @@ bot43.login("NDc0OTIwNzYwNjgzNjU5MjY1.DrppuQ.t4ptdjfKAXISTXCQ-Cori2ZBtEc");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot44 = new Discord.Client();
 bot44.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot44.user.tag}!`);
 });
 bot44.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -392,7 +392,7 @@ bot44.login("NDc0NjA4NDY2MzA0OTU4NDY1.Drpp_g.njnZLKK6Ca-Q_hBzJNBgeuhqdZQ");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot45 = new Discord.Client();
 bot45.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot45.user.tag}!`);
 });
 bot45.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -415,7 +415,7 @@ bot45.login("NDc0ODg0MzAzMzk0OTYzNDU3.DrpqeA.9-w7fQnwZ6ShJyXisFDDGPlBWCE");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot46 = new Discord.Client();
 bot46.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot46.user.tag}!`);
 });
 bot46.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -438,7 +438,7 @@ bot46.login("NDc0MzAxNzU0OTgxNDgyNDk2.DrprYw.6AmVM1McEnxaRw45MUwRd_9OIls");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot47 = new Discord.Client();
 bot47.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot47.user.tag}!`);
 });
 bot47.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
@@ -461,7 +461,7 @@ bot47.login("NDc0MzA1Njk4Nzg4ODAyNTcx.Drpruw.a-HYrS06UWwWi9vbIFunrvzKPEY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot48 = new Discord.Client();
 bot48.on('ready', () => {
-  console.log(`Logged in as ${bot35.user.tag}!`);
+  console.log(`Logged in as ${bot48.user.tag}!`);
 });
 bot48.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
