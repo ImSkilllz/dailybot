@@ -1,10 +1,10 @@
 const Discord = require('discord.js');
 const bot49 = new Discord.Client();
 bot49.on('ready', () => {
-  console.log(`Logged in as ${b49.user.tag}!`);
+  console.log(`Logged in as ${bot49.user.tag}!`);
 });
 bot49.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot49.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -20,16 +20,22 @@ bot49.on('message', message => {
 message.channel.send('#credits');
     }
 });
-
 bot49.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
-if(message.content.startsWith("28say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.content.startsWith("49say")) {
+if(message.author.id !== '300559968527187970') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
 });
-
+bot49.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("49say")) {
+if(message.author.id !== '474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
 bot49.login("NDc1NzEwMTI4MjI2ODI4Mjk5.DrphhA.Cd2dMqaCm0tDmaGrE_sfNOm6SdY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot29 = new Discord.Client();
@@ -37,7 +43,7 @@ bot29.on('ready', () => {
   console.log(`Logged in as ${bot29.user.tag}!`);
 });
 bot29.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot29.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -54,10 +60,23 @@ message.channel.send('#credits');
     }
 });
 
+bot29.on('message', message => {
+    if (message.content === "**c") {
+message.channel.send('#credits');
+    }
+});
 bot29.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("29say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot29.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("29say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -70,7 +89,7 @@ bot30.on('ready', () => {
   console.log(`Logged in as ${bot30.user.tag}!`);
 });
 bot30.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot30.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -90,7 +109,15 @@ message.channel.send('#credits');
 bot30.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("30say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot30.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("30say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -103,7 +130,7 @@ bot31.on('ready', () => {
   console.log(`Logged in as ${bot31.user.tag}!`);
 });
 bot31.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot31.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -123,7 +150,15 @@ message.channel.send('#credits');
 bot31.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("31say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot31.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("31say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -136,7 +171,7 @@ bot32.on('ready', () => {
   console.log(`Logged in as ${bot32.user.tag}!`);
 });
 bot32.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot32.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -156,7 +191,15 @@ message.channel.send('#credits');
 bot32.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("32say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot32.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("32say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -169,7 +212,7 @@ bot33.on('ready', () => {
   console.log(`Logged in as ${bot33.user.tag}!`);
 });
 bot33.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot33.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -189,7 +232,15 @@ message.channel.send('#credits');
 bot33.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("33say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot33.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("33say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -202,7 +253,7 @@ bot34.on('ready', () => {
   console.log(`Logged in as ${bot34.user.tag}!`);
 });
 bot34.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot34.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -222,7 +273,15 @@ message.channel.send('#credits');
 bot34.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("34say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot34.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("34say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -235,7 +294,7 @@ bot35.on('ready', () => {
   console.log(`Logged in as ${bot35.user.tag}!`);
 });
 bot35.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot35.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -255,7 +314,15 @@ message.channel.send('#credits');
 bot35.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("35say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot35.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("35say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -263,45 +330,53 @@ message.channel.send(`${args}`);
 
 bot35.login("NDc1MjQ1NDM5OTU2ODExNzc3.DrpnLw.Q-YxLh--7NKLoOMmjdT6KTa3eUM");
 //---------------------------------------------------------------------------------------------------------------------------------------------
-const bot36 = new Discord.Client();
-bot36.on('ready', () => {
-  console.log(`Logged in as ${bot36.user.tag}!`);
+const bot50 = new Discord.Client();
+bot50.on('ready', () => {
+  console.log(`Logged in as ${bot50.user.tag}!`);
 });
-bot36.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+bot50.on('ready', async () => {
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot36.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot50.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
-bot36.on('message', message => {
+bot50.on('message', message => {
      if (message.content === "**lolo") {
 message.channel.send('#daily');
 message.channel.send('#rep <@300559968527187970>');
     }
 });
-bot36.on('message', message => {
+bot50.on('message', message => {
     if (message.content === "**c") {
 message.channel.send('#credits');
     }
 });
 
-bot36.on('message',function(message) {
+bot50.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
-if(message.content.startsWith("36say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.content.startsWith("50say")) {
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot50.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("50say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
 });
 
-bot36.login("NDc1MjQyODU0MTM5MDM1NjUw.Drpnkg.RnS_CsmOWkoJq39qPVJGNQI0o6E");
+bot50.login("NDc1MjQyODU0MTM5MDM1NjUw.Drpnkg.RnS_CsmOWkoJq39qPVJGNQI0o6E");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot37 = new Discord.Client();
 bot37.on('ready', () => {
   console.log(`Logged in as ${bot37.user.tag}!`);
 });
 bot37.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot37.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -321,7 +396,15 @@ message.channel.send('#credits');
 bot37.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("37say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot37.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("37say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -334,7 +417,7 @@ bot38.on('ready', () => {
   console.log(`Logged in as ${bot38.user.tag}!`);
 });
 bot38.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot38.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -354,7 +437,15 @@ message.channel.send('#credits');
 bot38.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("38say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot38.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("38say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -367,7 +458,7 @@ bot39.on('ready', () => {
   console.log(`Logged in as ${bot39.user.tag}!`);
 });
 bot39.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot39.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -387,7 +478,15 @@ message.channel.send('#credits');
 bot39.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("39say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot39.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("39say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -400,7 +499,7 @@ bot40.on('ready', () => {
   console.log(`Logged in as ${bot40.user.tag}!`);
 });
 bot40.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot40.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -420,7 +519,15 @@ message.channel.send('#credits');
 bot40.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("40say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot40.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("40say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -433,7 +540,7 @@ bot41.on('ready', () => {
   console.log(`Logged in as ${bot41.user.tag}!`);
 });
 bot41.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot41.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -453,7 +560,15 @@ message.channel.send('#credits');
 bot41.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("41say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot41.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("41say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -466,7 +581,7 @@ bot42.on('ready', () => {
   console.log(`Logged in as ${bot42.user.tag}!`);
 });
 bot42.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot42.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -486,7 +601,15 @@ message.channel.send('#credits');
 bot42.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("42say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot42.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("42say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -499,7 +622,7 @@ bot43.on('ready', () => {
   console.log(`Logged in as ${bot43.user.tag}!`);
 });
 bot43.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot43.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -519,7 +642,15 @@ message.channel.send('#credits');
 bot43.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("43say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot43.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("43say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -532,7 +663,7 @@ bot44.on('ready', () => {
   console.log(`Logged in as ${bot44.user.tag}!`);
 });
 bot44.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot44.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -552,7 +683,15 @@ message.channel.send('#credits');
 bot44.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("44say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot44.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("44say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -565,7 +704,7 @@ bot45.on('ready', () => {
   console.log(`Logged in as ${bot45.user.tag}!`);
 });
 bot45.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot45.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -585,12 +724,19 @@ message.channel.send('#credits');
 bot45.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("45say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
 });
-
+bot45.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("45say")) {
+if(message.author.id !== '474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
 bot45.login("NDc0ODg0MzAzMzk0OTYzNDU3.DrpqeA.9-w7fQnwZ6ShJyXisFDDGPlBWCE");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot46 = new Discord.Client();
@@ -598,7 +744,7 @@ bot46.on('ready', () => {
   console.log(`Logged in as ${bot46.user.tag}!`);
 });
 bot46.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot46.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -618,7 +764,15 @@ message.channel.send('#credits');
 bot46.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("46say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot46.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("46say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -631,7 +785,7 @@ bot47.on('ready', () => {
   console.log(`Logged in as ${bot47.user.tag}!`);
 });
 bot47.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot47.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -651,7 +805,15 @@ message.channel.send('#credits');
 bot47.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("47say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot47.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("47say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
@@ -664,7 +826,7 @@ bot48.on('ready', () => {
   console.log(`Logged in as ${bot48.user.tag}!`);
 });
 bot48.on('ready', async () => {
-    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
+    let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
 bot48.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
@@ -684,7 +846,15 @@ message.channel.send('#credits');
 bot48.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("48say")) {
-if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(message.author.id !== '300559968527187970') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+bot48.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("48say")) {
+if(message.author.id !== '474730486787211265') return;
 if(!args) return;
 message.channel.send(`${args}`);
 }
