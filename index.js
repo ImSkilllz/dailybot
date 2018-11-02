@@ -1,3 +1,4 @@
+const Discord = require('discord.js');
 const bot49 = new Discord.Client();
 bot49.on('ready', () => {
   console.log(`Logged in as ${bot49.user.tag}!`);
