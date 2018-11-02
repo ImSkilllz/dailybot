@@ -1,27 +1,27 @@
 const Discord = require('discord.js');
 const bot28 = new Discord.Client();
 bot28.on('ready', () => {
-  console.log(`Logged in as ${bot28.user.tag}!`);
+  console.log(`Logged in as ${b49.user.tag}!`);
 });
-bot28.on('ready', async () => {
+bot49.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w36w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot28.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot49.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
-bot28.on('message', message => {
+bot49.on('message', message => {
      if (message.content === "**lolo") {
 message.channel.send('#daily');
 message.channel.send('#rep <@300559968527187970>');
     }
 });
-bot28.on('message', message => {
+bot49.on('message', message => {
     if (message.content === "**c") {
 message.channel.send('#credits');
     }
 });
 
-bot28.on('message',function(message) {
+bot49.on('message',function(message) {
 let args = message.content.split(" ").slice(1).join(" ");
 if(message.content.startsWith("28say")) {
 if(message.author.id !== '300559968527187970','474730486787211265') return;
@@ -30,7 +30,7 @@ message.channel.send(`${args}`);
 }
 });
 
-bot28.login("NDc1NzEwMTI4MjI2ODI4Mjk5.DrphhA.Cd2dMqaCm0tDmaGrE_sfNOm6SdY");
+bot49.login("NDc1NzEwMTI4MjI2ODI4Mjk5.DrphhA.Cd2dMqaCm0tDmaGrE_sfNOm6SdY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot29 = new Discord.Client();
 bot29.on('ready', () => {
