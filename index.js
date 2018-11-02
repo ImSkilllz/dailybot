@@ -20,6 +20,16 @@ bot28.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot28.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("28say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot28.login("NDc1NzEwMTI4MjI2ODI4Mjk5.DrphhA.Cd2dMqaCm0tDmaGrE_sfNOm6SdY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot29 = new Discord.Client();
@@ -43,6 +53,16 @@ bot29.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot29.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("29say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot29.login("NDc1NjMwMTM0MjI1Nzk3MTMx.Drph8Q.iK-rlDN1HW9CvmdKH5Q_L7bw2J8");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot30 = new Discord.Client();
@@ -66,6 +86,16 @@ bot30.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot30.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("30say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot30.login("NDc1MzAxMjI2NTk1MjIxNTA0.DrpiOQ.ngHWSwnZa0H34mcyyrx3tRBOL-0");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot31 = new Discord.Client();
@@ -89,6 +119,16 @@ bot31.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot31.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("31say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot31.login("NDc1Mjk3OTM2Mzk0Mjg5MTYy.DrpigQ.HRwaaNMjVj5nSZ4MzMHmFPjc8vI");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot32 = new Discord.Client();
@@ -112,6 +152,16 @@ bot32.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot32.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("32say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot32.login("NDc1MjUzNDIyODY2ODI1MjI2.Drpjtw.vzqAvcCoMRQi787fjpMUUUnBFQY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot33 = new Discord.Client();
@@ -135,6 +185,16 @@ bot33.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot33.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("33say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot33.login("NDc1MjUxMDIzNDQzNzg3ODE2.DrpkCg.n5fbAu6-FOMpHhV5FPWWyzI08W8");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot34 = new Discord.Client();
@@ -158,6 +218,16 @@ bot34.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot34.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("34say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot34.login("NDc1MjQ5MTE5MjA0NzM3MDI1.Drpmxw.tRFvcKwfCXBSQ2K61-wUrPBoyQM");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot35 = new Discord.Client();
@@ -181,6 +251,16 @@ bot35.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot35.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("35say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot35.login("NDc1MjQ1NDM5OTU2ODExNzc3.DrpnLw.Q-YxLh--7NKLoOMmjdT6KTa3eUM");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot36 = new Discord.Client();
@@ -204,6 +284,16 @@ bot36.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot36.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("36say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot36.login("NDc1MjQyODU0MTM5MDM1NjUw.Drpnkg.RnS_CsmOWkoJq39qPVJGNQI0o6E");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot37 = new Discord.Client();
@@ -227,6 +317,16 @@ bot37.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot37.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("37say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot37.login("NDc1MDI2MjAxMTM2ODU3MDg4.Drpn2g.6WZ4hH4Iul9JeLc1hqPry5v6uUY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot38 = new Discord.Client();
@@ -250,6 +350,16 @@ bot38.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot38.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("38say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot38.login("NDc0OTQyNDI4NjcyMTYzODUx.DrpoHg.1aKrh3OCkyQWvvbhcJlIAS7ZzUw");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot39 = new Discord.Client();
@@ -273,6 +383,16 @@ bot39.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot39.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("39say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot39.login("NDc0OTQzNzI3OTM3NTE5NjQ4.DrpoZw.spYY6Kmtdh9hGzUczmNjm-NVcrg");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot40 = new Discord.Client();
@@ -296,6 +416,16 @@ bot40.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot40.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("40say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot40.login("NDc0OTI2MDc3MDMwOTU3MDY2.DrpoyQ.zknFZ0fpvKfzdJSZ9I9GMHiKYy4");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot41 = new Discord.Client();
@@ -319,6 +449,16 @@ bot41.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot41.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("41say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot41.login("NDc0OTI1MjIzNTQwNjg2ODU4.DrppIw.f2aYuu46P94BcMnXHGKkruJYBHc");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot42 = new Discord.Client();
@@ -342,6 +482,16 @@ bot42.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot42.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("42say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot42.login("NDc0OTIzMzE5NDQ4MDQzNTIw.DrppaQ.TIRAS3qigvGs1LwVfvQOure3CVo");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot43 = new Discord.Client();
@@ -365,6 +515,16 @@ bot43.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot43.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("43say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot43.login("NDc0OTIwNzYwNjgzNjU5MjY1.DrppuQ.t4ptdjfKAXISTXCQ-Cori2ZBtEc");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot44 = new Discord.Client();
@@ -388,6 +548,16 @@ bot44.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot44.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("44say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot44.login("NDc0NjA4NDY2MzA0OTU4NDY1.Drpp_g.njnZLKK6Ca-Q_hBzJNBgeuhqdZQ");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot45 = new Discord.Client();
@@ -411,6 +581,16 @@ bot45.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot45.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("45say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot45.login("NDc0ODg0MzAzMzk0OTYzNDU3.DrpqeA.9-w7fQnwZ6ShJyXisFDDGPlBWCE");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot46 = new Discord.Client();
@@ -434,6 +614,16 @@ bot46.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot46.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("46say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot46.login("NDc0MzAxNzU0OTgxNDgyNDk2.DrprYw.6AmVM1McEnxaRw45MUwRd_9OIls");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot47 = new Discord.Client();
@@ -457,6 +647,16 @@ bot47.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot47.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("47say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot47.login("NDc0MzA1Njk4Nzg4ODAyNTcx.Drpruw.a-HYrS06UWwWi9vbIFunrvzKPEY");
 //---------------------------------------------------------------------------------------------------------------------------------------------
 const bot48 = new Discord.Client();
@@ -480,4 +680,14 @@ bot48.on('message', message => {
 message.channel.send('#credits');
     }
 });
+
+bot48.on('message',function(message) {
+let args = message.content.split(" ").slice(1).join(" ");
+if(message.content.startsWith("48say")) {
+if(message.author.id !== '300559968527187970','474730486787211265') return;
+if(!args) return;
+message.channel.send(`${args}`);
+}
+});
+
 bot48.login("NDc0MzAwNzU2MTU4MTg1NTAz.DrpsDQ.GvL_ZjZJUaeK-B7QrwblY--XSrU");
