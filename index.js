@@ -1,4 +1,3 @@
-const Discord = require('discord.js');
 const bot49 = new Discord.Client();
 bot49.on('ready', () => {
   console.log(`Logged in as ${bot49.user.tag}!`);
@@ -6,7 +5,7 @@ bot49.on('ready', () => {
 bot49.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot49.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot49.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot49.on('message', message => {
@@ -45,7 +44,7 @@ bot29.on('ready', () => {
 bot29.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot29.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot29.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot29.on('message', message => {
@@ -91,7 +90,7 @@ bot30.on('ready', () => {
 bot30.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot30.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot30.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot30.on('message', message => {
@@ -132,7 +131,7 @@ bot31.on('ready', () => {
 bot31.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot31.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot31.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot31.on('message', message => {
@@ -173,7 +172,7 @@ bot32.on('ready', () => {
 bot32.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot32.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot32.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot32.on('message', message => {
@@ -214,7 +213,7 @@ bot33.on('ready', () => {
 bot33.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot33.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot33.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot33.on('message', message => {
@@ -255,7 +254,7 @@ bot34.on('ready', () => {
 bot34.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot34.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot34.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot34.on('message', message => {
@@ -296,7 +295,7 @@ bot35.on('ready', () => {
 bot35.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot35.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot35.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot35.on('message', message => {
@@ -337,7 +336,7 @@ bot50.on('ready', () => {
 bot50.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot50.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot50.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot50.on('message', message => {
@@ -378,7 +377,7 @@ bot37.on('ready', () => {
 bot37.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot37.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot37.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot37.on('message', message => {
@@ -419,7 +418,7 @@ bot38.on('ready', () => {
 bot38.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot38.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot38.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot38.on('message', message => {
@@ -460,7 +459,7 @@ bot39.on('ready', () => {
 bot39.on('ready', async () => {
     let igni = ["w3h5456wheh6 <@474730486787211265","qawesetnsrysry","etnsetnsr","zynrdnydrydfh","zdfnydynfdy","drnydryn","drynsw46","6nsrydry","zwse6nwse67","ryndryzn47","74ndryry","ze467nery","zw47e47rn","zen47zzedzrybr","w46hnrwty","enryery","wa46je46","we4hn6ye575757","w46eryny","zsweny4r674m7","w50w46","Tfhdh","set sewtwete et eet g","rwry6rnyrytr","w34wettww se ","67346erreyr"]
   setInterval(() => {
-bot39.channels.get("507680933789433859").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot39.channels.get("508034950205931531").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot39.on('message', message => {
