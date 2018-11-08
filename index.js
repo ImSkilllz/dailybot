@@ -6,7 +6,7 @@ bot1.on('ready', () => {
   bot1.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot1.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot1.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot1.on('message', message => {
@@ -74,7 +74,7 @@ bot2.on('ready', () => {
   bot2.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot2.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot2.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot2.on('message', message => {
@@ -142,7 +142,7 @@ bot3.on('ready', () => {
   bot3.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot3.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot3.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot3.on('message', message => {
@@ -210,7 +210,7 @@ bot4.on('ready', () => {
   bot4.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot4.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot4.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot4.on('message', message => {
@@ -278,7 +278,7 @@ bot5.on('ready', () => {
   bot5.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot5.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot5.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot5.on('message', message => {
@@ -346,7 +346,7 @@ bot6.on('ready', () => {
   bot6.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot6.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot6.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot6.on('message', message => {
@@ -414,7 +414,7 @@ bot7.on('ready', () => {
   bot7.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot7.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot7.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot7.on('message', message => {
@@ -482,7 +482,7 @@ bot8.on('ready', () => {
   bot8.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot8.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot8.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot8.on('message', message => {
@@ -550,7 +550,7 @@ bot9.on('ready', () => {
   bot9.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot9.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot9.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot9.on('message', message => {
@@ -618,7 +618,7 @@ bot10.on('ready', () => {
   bot10.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot10.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot10.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot10.on('message', message => {
@@ -686,7 +686,7 @@ bot11.on('ready', () => {
   bot11.on('ready', async () => {
       let igni = ["w3h5456wheh646she46er6(/&%%T&/T//R)6rtf7fgT/%R%&ER)&%ER%&E#%¤¤R&)5975er957re57re6%/%R%R)&/R%)/&","qawes5ed57e5rnyse5y7ne57ert57xrn5757nu7r578nr57unr5ur5nurtuytutuetnsrysry","etnsetr57r5ur5ur5tumr5umr56urumr6it6it7it7oimt7miot7it7it7yiyi6i6tit6i7itymi(/&%(%&=&=&(T=(T(T(=(/TGnsr","zynrdnydwebht4et4ry6nyr5ty5rnutyuyujtyum6mur6utyuygimyimrydfh","zdfny6tm6itm6mit6itit7yiyi7dynfdy","drnydryrs5757578r5ur5tnuyhftyntu ed drtjrjrjtj xdtudtutrnun","drynsw46","6nsrydry","zwsei,t,it7,o7yo,yf7,oy7,oy,oy7,,oyfuimnft7dn667ytyedh r erh edhethjrtj tdrjtjt dfttjjh tg hghhtuhj ththme5uytnwse67","ryndryuzem5uyez7une5uynzn47","74nunrurx5ubxrtydryry","ze45unr5unr5uxrb5u67nery","zw47e47rn","zen47zzedzrybr","w46hneteryn4rybe5yue5bye5tu5tnnrwty","enryery","wa46je46","we4hn6ye575757","w4e567e54y76e5y e yerhthdhfhgfhtfdtu6eryny","zswee4tnes4tbeybyyneye5tyebrtyrnny4r674m7","w36wdry dhd rhdrhtdhthzed tzdghtd ujdfrghzxdftjedztuzdfjdt46","Tfhdh","set sewtwete et eet g","rwry6r n46e 46hy6neyy5 yh hdh hujtjtjtughyrytr","w34e56eh565bye eye dhthdhjrtjtj ktrjtfjgjurtu uijrftu rtzuwettww se ","67346ewe4nbyerbye5yhe5h r uyh5e4 utjhr5tju ftjusrt6j srtjt6 mser5yhrsu 6u msrtusrtu zetifhgj zrjuz  fjxrik zdtyjöäåölölädfths  ghsrty s<y dfgrreyrrreyr"]
   setInterval(() => {
-bot11.channels.get("498886512751018004").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
+bot11.channels.get("510198437082562578").send(`${igni[Math.floor(Math.random() *igni.length)]}`);
 },1500);
 });
 bot11.on('message', message => {
